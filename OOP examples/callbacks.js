@@ -43,6 +43,10 @@ const posts = [
 
 // createPost({title: 'Post Three', body: 'This is post three'}, getPosts);
 
+function getPost(){
+    setTimeout()
+}
+
 
 //* Promises
 function createPost(post){
